@@ -1,1 +1,3 @@
 PROGRMACION ORIENTADA A AOBJETOS
+concepto no 1 la POO es un paradigma o medelo a seguir para resolver un problema
+concepto no 4 la POO reuelve el problema utilizando toos los objetos que intervienen n un escenario 
